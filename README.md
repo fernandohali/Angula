@@ -1,2 +1,2 @@
 # Angula
-Estudando a plataforma,
+Estudando a plataforma.
